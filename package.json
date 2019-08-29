@@ -1,0 +1,21 @@
+{
+  "name": "apextracker-v2",
+  "description": "Node wrapper for apextracker v2 api.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Krunal Shah",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "repository": "https://github.com/imkrunal/apextracker-v2",
+  "keywords": [
+    "apex tracker",
+    "apex legends",
+    "apex legends api",
+    "apex api"
+  ],
+  "engines": {
+    "node": ">=8"
+  }
+}
